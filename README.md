@@ -8,6 +8,23 @@
 
 ### Prerequisites
 
+##### Node.js
+
+Install `Node.js` version. This project has `.nvmrc` file contains specific `node.js` version to use. To install its specific version we recommend to use `nvm` package, that way please install it [here](https://github.com/nvm-sh/nvm).
+
+install node.js based on `.nvmrc` file:
+
+```
+nvm install
+nvm use
+```
+
+to check used node.js version:
+
+```
+nvm which
+```
+
 ##### PNPM Package Manager
 
 install pnpm:

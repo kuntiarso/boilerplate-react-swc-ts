@@ -10,9 +10,10 @@
 
 ##### Node.js
 
-Install `Node.js` version. This project has `.nvmrc` file contains specific `node.js` version to use. To install its specific version we recommend to use `nvm` package, that way please install it [here](https://github.com/nvm-sh/nvm).
+Install `node.js` version. This project has `.nvmrc` file contains specific node.js version to use.  
+We recommend to use [nvm](https://github.com/nvm-sh/nvm) to install specific version, that way don't forget to install it first.
 
-install node.js based on `.nvmrc` file:
+install node.js with nvm based on .nvmrc file:
 
 ```
 nvm install

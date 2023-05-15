@@ -1,10 +1,10 @@
-# Boilerplate React Project
+# Boilerplate React-ts Project
 
-:zap: vite
-:sparkles: react + swc
-:sparkles: typescript
-:sparkles: husky + commitlint + nano-staged
-:sparkles: eslint + prettier
+:zap: vite  
+:sparkles: react + swc  
+:sparkles: typescript  
+:sparkles: husky + commitlint + nano-staged  
+:sparkles: eslint + prettier  
 
 ### Prerequisites
 

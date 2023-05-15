@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "lint": "tsc --noEmit && eslint src/**/*.ts{,x} --cache --max-warnings=0",
     "lint:fix": "eslint src/**/*.ts{,x} --fix",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "pr": "gh pr create --template pull_request_template.md"
   },
   "dependencies": {
     "react": "^18.2.0",

@@ -1,0 +1,9 @@
+node_modules
+.vscode
+.husky
+.prettierignore
+.stylelintignore
+.commitlintrc
+.eslintignore
+.eslintrc
+.nanostagedrc

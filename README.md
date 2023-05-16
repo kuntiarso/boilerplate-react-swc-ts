@@ -5,6 +5,7 @@
 :sparkles: typescript  
 :sparkles: husky + commitlint + nano-staged  
 :sparkles: eslint + prettier  
+:sparkles: storybook  
 
 ### Prerequisites
 
